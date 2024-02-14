@@ -4,4 +4,5 @@ number = 12345
 
 result = sum_of_digits(number)
 
+
 print("Sum of digits of", number, "is:", result)
